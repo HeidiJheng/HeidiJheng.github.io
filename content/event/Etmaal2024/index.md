@@ -5,7 +5,6 @@ event: Paper presentation at the Etmaal van de Communicatiewetenschap (Etmaal 20
 
 location: Rotterdam, the Netherlands
 
-
 summary: Paper presentation at the Etmaal van de Communicatiewetenschap (Etmaal 2024)
 
 # Talk start and end times.
