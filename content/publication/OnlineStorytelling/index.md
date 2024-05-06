@@ -4,7 +4,7 @@ authors:
 - Yi-Lun Jheng
 - Hsiu-Ping Yueh
 
-date: "2023-12-11T00:00:00Z"
+date: "2023-10-04T00:00:00Z"
 doi: "10.6182/JLIS.202306_21(1).067"
 
 # Schedule page publish date (NOT publication's date).
