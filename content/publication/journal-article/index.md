@@ -3,11 +3,8 @@ title: "Effectiveness of storytelling in agricultural marketing: Scale developme
 authors:
 - Hsiu-Ping Yueh
 - Yi-Lun Zheng
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2015-09-01T00:00:00Z"
-doi: ""
+doi: "10.3389/fpsyg.2019.00452"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-03-13T00:00:00Z"
