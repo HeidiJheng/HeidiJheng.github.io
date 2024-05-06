@@ -17,34 +17,36 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate from Department of Training and Education Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Antwerp
+    url: [https://www.stanford.edu/](https://www.uantwerpen.be/nl/)
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include learning from text (about health topics), eye tracking & psychophysiological measures, emotion dynamics, and cognition-emotion interaction.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- Learning from Text
+- Health Communication
+- Eye tracking & Psychophysiological Measures
+- Emotion Dynamics
+- Cognition-Emotion Interaction
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: PhD in Social Sciences (Education Sciences & Communication Sciences)
+    institution: University of Antwerp
+    year: 2020-Present
+  - course: M.Sc. in Communication 
+    institution: National Taiwan University
+    year: 2015-2018 (Exchange Student in Human Factor and Ergonomics at Tsinghua University, China, 2017-2018)
+  - course: BA in Business Administration
+    institution: Yuan Ze University
+    year: 2011-2015
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
