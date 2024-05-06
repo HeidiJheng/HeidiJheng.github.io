@@ -4,9 +4,7 @@ title: Narratives stressing harm? A backfire of Corrective Messages on COVID-19 
 event: Paper presentation at the 74th Annual Conference of the International Communication Association (ICA 2024)
 
 location: Gold Coast, Australia
-address:
-  region: Gold Coast
-  country: Australia
+
 
 summary: Paper presentation at the 74th Annual Conference of the International Communication Association (ICA 2024)
 
