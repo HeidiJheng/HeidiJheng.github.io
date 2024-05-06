@@ -8,7 +8,6 @@ address:
   region: Gold Coast
   country: Australia
 
-summary:...
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
