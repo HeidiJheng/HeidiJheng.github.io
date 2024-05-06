@@ -22,7 +22,7 @@ role: PhD Candidate from Department of Training and Education Sciences
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Antwerp
-    url: [https://www.stanford.edu/](https://www.uantwerpen.be/nl/)
+    url: [https://www.uantwerpen.be/nl/].
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include learning from text (about health topics), eye tracking & psychophysiological measures, emotion dynamics, and cognition-emotion interaction.
