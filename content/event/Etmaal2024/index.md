@@ -22,14 +22,11 @@ authors:
 - Sander Van de Cruys
 - Karolien Poels
 
-tags: 
-- COVID-19
-- Vaccination
+tags:
 - Corrective Messages
 - Social Media
-- Narrative
 - Text Genre
-- Harm
+- Harm Features
 
 
 # Is this a featured talk? (true/false)
