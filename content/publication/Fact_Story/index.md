@@ -31,9 +31,12 @@ abstract: Communicating about new or unknown health risks is challenging because
 summary: Taken together, the findings suggest that narrative texts perform better at raising awareness, whereas mixed-genre texts seem more effective in learning. The implications for health risk communication are discussed.
 
 tags:
-- Electrodermal activity (EDA)
 - Narrative
-- Mixed-genre texts
+- Mixed-Genre Texts
+- Health Communication
+- Psychophysiological Measures
+- Electrodermal Activity (EDA)
+
 featured: false
 
 # links:
