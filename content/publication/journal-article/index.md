@@ -22,7 +22,7 @@ abstract: Storytelling is a mode of communication in human interaction and is pe
 
 
 # Summary. An optional shortened abstract.
-summary: To aid storytelling research in consumer psychology, this article conceptualized a construct of the effectiveness of storytelling in agricultural marketing and developed a measure with further validation. This scale consisted of 13 items with four subscales: narrative processing, affect, brand attitude, and purchase intention.
+summary: To aid storytelling research in consumer psychology, this article conceptualized a construct of the effectiveness of storytelling in agricultural marketing and developed a measure with further validation.
 
 tags:
 - Scale Development
