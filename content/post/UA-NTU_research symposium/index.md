@@ -1,7 +1,7 @@
 ---
 title: UAntwerp—NTU collaborative research symposium
-date: "2023-10-25T00:00:00Z"
-lastmod: "2023-10-25T00:00:00Z"
+date: "2023-10-01T00:00:00Z"
+lastmod: "2023-10-01T00:00:00Z"
 categories:
   - research symposium
 tags:
