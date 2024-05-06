@@ -1,4 +1,3 @@
-
 ---
 title: "The Facts or the Story? It Takes Both to Sensitize People About Unknown Health Hazards"
 authors:
