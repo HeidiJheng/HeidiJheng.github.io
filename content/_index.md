@@ -104,8 +104,9 @@ sections:
       subtitle:
       text: |-
         yi-lun.jheng@uantwerpen.be
-        design:
       columns: '2'
+      view: compact
+
 ---
 
 ---
