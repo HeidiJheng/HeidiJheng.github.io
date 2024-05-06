@@ -47,7 +47,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -72,7 +72,7 @@ sections:
       view: compact
       columns: '2'
 
-     - block: collection
+ - block: collection
     content:
       title: Recent Publications
       text: |-
