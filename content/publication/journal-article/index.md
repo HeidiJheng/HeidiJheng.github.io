@@ -18,7 +18,7 @@ publication_types: ["article-journal"]
 publication: "*Frontiers in Psychology, 10*.452"
 publication_short: ""
 
-abstract: Storytelling is a mode of communication in human interaction and is pervasive in everyday life. Storytelling in marketing is also a managerial application as a marketing strategy. Researchers of consumer psychology and marketing have devoted great efforts to developing theories and conducting empirical studies on this approach. However, in addition to narrative theories, many researchers are mainly concerned about the effect of telling a good brand story and its applications, such as advertising design and presentation. However, for those products that usually lacks branding, such as agricultural products, knowledge remains scarce about the relative impact of storytelling in marketing. Few researchers have explicitly developed a valid tool for measuring the effect of storytelling in marketing. To aid storytelling research in consumer psychology, this article conceptualized a construct of the effectiveness of storytelling in agricultural marketing and developed a measure with further validation. This scale consisted of 13 items with four subscales: narrative processing, affect, brand attitude, and purchase intention. The findings of this study supported a structural model with strong order among the four dimensions and good model fit. A discussion of the results and the theoretical and practical implications for consumer psychology and marketing practice are also addressed.
+abstract: 
 
 
 # Summary. An optional shortened abstract.
