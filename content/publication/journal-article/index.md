@@ -30,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: [http://arxiv.org/pdf/1512.04133v1](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00452/full)
+url_pdf: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00452/full
 url_code: ''
 url_dataset: ''
 url_poster: ''
