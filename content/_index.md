@@ -105,7 +105,7 @@ sections:
       text: |-
  
       # Contact (add or remove contact options as necessary)
-      email: test@example.org  
+      email: yi-lun.jheng@uantwerpen.be  
     design:
       columns: '2'
 ---
