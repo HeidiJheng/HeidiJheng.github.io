@@ -28,6 +28,7 @@ tags:
 - Scale Development
 - Narrative
 - Marketing
+- Agricultural Marketing
 featured: false
 
 # links:
