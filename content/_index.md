@@ -71,8 +71,7 @@ sections:
       view: compact
       columns: '2'
 
-
-  - block: collection
+     - block: collection
     content:
       title: Publications
       text: |-
