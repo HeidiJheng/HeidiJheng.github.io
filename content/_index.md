@@ -72,7 +72,7 @@ sections:
       columns: '2'
 
  - block: collection
-    id: Conferences
+    id: talks
     content:
       title: Conferences
       filters:
