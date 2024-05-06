@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-- block: hero
+  - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Hugo Academic Theme
@@ -36,15 +36,14 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-    
-- block: about.biography
+  - block: about.biography
     id: about
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-    
-- block: collection
+  
+  - block: collection
     id: posts
     content:
       title: Posts
@@ -71,10 +70,10 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-
-- block: collection
+  
+  - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -86,30 +85,27 @@ sections:
     design:
       columns: '2'
       view: citation
-  
 
-- block: collection
-    id: talks
+  - block: collection
+    id: Conferences
     content:
-      title: Conferences
+      title: Recent & Upcoming Talks
       filters:
         folders:
           - event
     design:
       columns: '2'
       view: compact
-
-
-- block: contact
+  
+  - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
       text: |-
-        yi-lun.jheng@uantwerpen.be
+ 
+      # Contact (add or remove contact options as necessary)
+      email: test@example.org  
+    design:
       columns: '2'
-      view: compact
-
----
-
 ---
