@@ -1,9 +1,9 @@
 ---
 title: Corrective Messages on Social Media: The Role of Text Genre and Harm Features
 
-event: Paper presentation at the 74th Annual Conference of the International Communication Association (ICA 2024)
+event: Paper presentation at the Etmaal van de Communicatiewetenschap (Etmaal 2024)
 
-location: Gold Coast, Australia
+location: Rotterdam, the Netherlands
 
 
 summary: Paper presentation at the Etmaal van de Communicatiewetenschap (Etmaal 2024)
