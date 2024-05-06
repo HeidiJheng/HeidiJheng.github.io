@@ -28,7 +28,6 @@ tags:
 - Text Genre
 - Harm Features
 
-
 # Is this a featured talk? (true/false)
 featured: false
 
