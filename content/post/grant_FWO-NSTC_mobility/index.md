@@ -5,7 +5,7 @@ lastmod: "2022-12-05T00:00:00Z"
 categories:
   - grant
 tags:
-  - grant
+  - Grant
   - FWO
   - NSTC
 slug: grant_FWO-NSTC mobility project 
