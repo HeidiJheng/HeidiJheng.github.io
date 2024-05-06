@@ -1,5 +1,5 @@
 ---
-title: Narratives stressing harm? A backfire of Corrective Messages on COVID-19 Vaccination for Pregnant Women
+title: Corrective Messages on Social Media: The Role of Text Genre and Harm Features
 
 event: Paper presentation at the 74th Annual Conference of the International Communication Association (ICA 2024)
 
