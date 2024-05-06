@@ -42,9 +42,8 @@ education:
     institution: University of Antwerp
     year: 2020-Present
   - course: M.Sc. in Communication 
-    institution: National Taiwan University
+    institution: National Taiwan University (Exchange Student in Human Factor and Ergonomics at Tsinghua University, China, 2017-2018)
     year: 2015-2018
-    institution: Exchange Student in Human Factor and Ergonomics at Tsinghua University, China, 2017-2018
   - course: BA in Business Administration
     institution: Yuan Ze University
     year: 2011-2015
