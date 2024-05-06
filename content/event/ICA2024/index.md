@@ -8,11 +8,12 @@ address:
   region: Gold Coast
   country: Australia
 
+summary: Paper presentation at the 74th Annual Conference of the International Communication Association (ICA 2024)
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-06-20T13:00:00Z'
-date_end: '2024-06-24T15:00:00Z'
+date: '2024-06-20T00:00:00Z'
+date_end: '2024-06-24T00:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
