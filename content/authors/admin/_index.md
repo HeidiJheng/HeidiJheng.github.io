@@ -98,19 +98,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/yilunchengtw
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=HzmV6gcAAAAJ&hl=zh-TW&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/HeidiJheng
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/yi-lun-jheng-315624307/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -122,5 +122,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Yi-Lun Jheng is currently a Ph.D. candidate in education sciences and communication sciences at the University of Antwerp, Belgium. Her research investigates the emotional and cognitive processes involved in learning from texts (about health topics). In her work, she adopts dynamic measures of processes during text reading, using a multi-method approach that combines self-reports with eye tracking and psychophysiological measures.
+
 {style="text-align: justify;"}
