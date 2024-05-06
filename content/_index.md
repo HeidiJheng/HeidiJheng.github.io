@@ -70,6 +70,17 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+
+  - block: collection
+    id: talks
+    content:
+      title: Conferences
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
   
   - block: collection
     content:
@@ -86,16 +97,7 @@ sections:
       columns: '2'
       view: citation
 
-  - block: collection
-    id: talks
-    content:
-      title: Conferences
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+
   
   - block: contact
     id: contact
