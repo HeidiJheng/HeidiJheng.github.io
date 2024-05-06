@@ -18,7 +18,7 @@ publication_types: ["article-journal"]
 publication: "*Frontiers in Psychology, 10*.326802"
 publication_short: ""
 
-abstract: Storytelling is a mode of communication in human interaction and is pervasive in everyday life. Storytelling in marketing is also a managerial application as a marketing strategy. Researchers of consumer psychology and marketing have devoted great efforts to developing theories and conducting empirical studies on this approach. However, in addition to narrative theories, many researchers are mainly concerned about the effect of telling a good brand story and its applications, such as advertising design and presentation. However, for those products that usually lacks branding, such as agricultural products, knowledge remains scarce about the relative impact of storytelling in marketing...
+abstract: Storytelling is a mode of communication in human interaction and is pervasive in everyday life. Storytelling in marketing is also a managerial application as a marketing strategy. Researchers of consumer psychology and marketing have devoted great efforts to developing theories and conducting empirical studies on this approach. However, in addition to narrative theories, many researchers are mainly concerned about the effect of telling a good brand story and its applications, such as advertising design and presentation...
 
 
 # Summary. An optional shortened abstract.
