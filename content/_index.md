@@ -71,10 +71,20 @@ sections:
       view: compact
       columns: '2'
 
+ - block: collection
+    id: Conferences
+    content:
+      title: Conferences
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
 
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -86,17 +96,8 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Conferences
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-    
+  
+
   - block: contact
     id: contact
     content:
