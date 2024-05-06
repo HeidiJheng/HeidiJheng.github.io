@@ -5,9 +5,9 @@ lastmod: "2023-04-11T00:00:00Z"
 categories: Research Stay
   - grant
 tags:
-  - grant
+  - Grant
   - FWO
-  - research stay
+  - Research Stay
 slug: grant_ShortStayAbroad
 
 ---
