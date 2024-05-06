@@ -42,6 +42,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    
   - block: collection
     id: posts
     content:
@@ -70,7 +71,7 @@ sections:
       view: compact
       columns: '2'
 
-  
+
   - block: collection
     content:
       title: Recent Publications
@@ -100,6 +101,8 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
+
+    
   - block: contact
     id: contact
     content:
