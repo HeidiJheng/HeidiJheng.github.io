@@ -5,7 +5,7 @@ lastmod: "2023-07-31T00:00:00Z"
 categories:
   - grant
 tags:
-  - grant
+  - Grant
   - NSTC
 slug: grant_TOPgrant
 image:
