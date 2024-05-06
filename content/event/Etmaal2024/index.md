@@ -1,10 +1,7 @@
 ---
 title: Corrective Messages on Social Media: The Role of Text Genre and Harm Features
-
 event: Paper presentation at the Etmaal van de Communicatiewetenschap (Etmaal 2024)
-
 location: Rotterdam, the Netherlands
-
 summary: Paper presentation at the Etmaal van de Communicatiewetenschap (Etmaal 2024)
 
 # Talk start and end times.
@@ -14,7 +11,7 @@ date_end: '2024-02-09T00:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-02-10T00:00:00Z'
+publishDate: '2024-02-05T00:00:00Z'
 
 authors: 
 - Yi-Lun Jheng
