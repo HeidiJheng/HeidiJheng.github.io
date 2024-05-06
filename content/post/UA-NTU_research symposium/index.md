@@ -1,5 +1,5 @@
 ---
-title: UAntwerp—NTU collaborative research symposium
+title: UAntwerp—NTU Collaborative Research Symposium
 date: "2023-10-01T00:00:00Z"
 lastmod: "2023-10-01T00:00:00Z"
 categories:
