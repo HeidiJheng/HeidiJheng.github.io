@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+- block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Hugo Academic Theme
@@ -37,14 +37,14 @@ sections:
         gradient_start: '#004ba0'
         text_color_light: true
     
-  - block: about.biography
+- block: about.biography
     id: about
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
     
-  - block: collection
+- block: collection
     id: posts
     content:
       title: Posts
@@ -72,7 +72,7 @@ sections:
       view: compact
       columns: '2'
 
- - block: collection
+- block: collection
     content:
       title: Recent Publications
       text: |-
@@ -88,7 +88,7 @@ sections:
       view: citation
   
 
- - block: collection
+- block: collection
     id: talks
     content:
       title: Conferences
@@ -100,7 +100,7 @@ sections:
       view: compact
 
 
-  - block: contact
+- block: contact
     id: contact
     content:
       title: Contact
