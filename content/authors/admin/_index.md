@@ -44,7 +44,7 @@ education:
   - course: M.Sc. in Communication 
     institution: National Taiwan University
     year: 2015-2018
-    (Exchange Student in Human Factor and Ergonomics at Tsinghua University, China, 2017-2018)
+    institution: Exchange Student in Human Factor and Ergonomics at Tsinghua University, China, 2017-2018
   - course: BA in Business Administration
     institution: Yuan Ze University
     year: 2011-2015
