@@ -3,7 +3,7 @@ title: An Exploratory Study on Design and Implement an Emotional Karaoke Robot (
 
 event: Paper presentation at International Conference on Human-Computer Interaction (HCII) 2018
 
-location: Taipei, Taiwan
+location: Las Vegas, USA
 
 summary: Paper presentation at International Conference on Human-Computer Interaction (HCII) 2018
 
