@@ -1,5 +1,5 @@
 ---
-title: The interplay of emotions and attention when reading texts of different genres: an eye-tracking study
+title: The interplay of emotions and attention when reading texts of different genres:an eye-tracking study
 
 event: Poster presentation at American Educational Research Association (AERA)
 
