@@ -9,8 +9,8 @@ summary: 2018第一屆清華心理論壇暨華人心理學前瞻發展學術研�
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2018-05'
-date_end: '2018-05'
+date: '2018-05-01'
+date_end: '2018-05-01'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
