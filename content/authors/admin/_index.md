@@ -73,7 +73,7 @@ social:
     link: https://www.linkedin.com/in/yi-lun-jheng-315624307/
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/14TBHPJv2e7eTAHHrjWpgT_CM5jgJWN81/view?usp=sharing
+    link: uploads/CV.pdf
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
