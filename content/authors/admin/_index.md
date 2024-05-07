@@ -79,6 +79,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+{{< icon name="download" pack="fas" >}} View my {{< staticref "https://github.com/rcampusa/website/blob/master/static/uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}} (external link to github repo)!.
 
 Yi-Lun Jheng is currently a Ph.D. candidate in education sciences and communication sciences at the University of Antwerp, Belgium. Her research investigates the emotional and cognitive processes involved in learning from texts (about health topics). In her work, she adopts dynamic measures of processes during text reading, using a multi-method approach that combines self-reports with eye tracking and psychophysiological measures.
 
