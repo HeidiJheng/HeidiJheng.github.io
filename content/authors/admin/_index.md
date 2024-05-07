@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 鄭怡倫
+title: 鄭倫
 
 # Name pronunciation (optional)
 name_pronunciation: Yi-Lun Jheng
