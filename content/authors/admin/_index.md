@@ -82,4 +82,4 @@ social:
 highlight_name: true
 ---
 
-Yi-Lun Jheng is currently a Ph.D. candidate in education sciences and communication sciences at the University of Antwerp, Belgium. Her research investigates the emotional and cognitive processes involved in learning from texts (about health topics). In her work, she adopts dynamic measures of processes during text reading, using a multi-method approach that combines self-reports with eye tracking and psychophysiological measures.
+Yi-Lun Jheng is currently a Ph.D. candidate in education sciences and communication sciences at the University of Antwerp, Belgium, under the supervision of Prof. David Gijbels, Prof. Karolien Poels, Prof. Leen Catrysse. She investigates the emotional and cognitive processes involved in learning from texts (about health topics). In her work, she adopts dynamic measures of processes during text reading, using a multi-method approach that combines self-reports with eye tracking and psychophysiological measures. She also conducts research on refuting misinformation and seeks to understand the underlying emotional processes associated with reading refutation or corrective texts.
