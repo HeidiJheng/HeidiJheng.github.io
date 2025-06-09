@@ -43,7 +43,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: [https://www.tandfonline.com/doi/full/10.1080/10810730.2023.2290549](https://www.nature.com/articles/s41598-025-98709-2)
+url_pdf: https://www.nature.com/articles/s41598-025-98709-2
 url_code: ''
 url_dataset: ''
 url_poster: ''
