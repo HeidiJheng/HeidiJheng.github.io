@@ -39,7 +39,7 @@ education:
   courses:
   - course: PhD in Social Sciences (Education Sciences & Communication Sciences)
     institution: University of Antwerp
-    year: 2020-Present
+    year: 2020-2024
   - course: M.Sc. in Communication 
     institution: National Taiwan University (Exchange Student in Human Factor and Ergonomics at Tsinghua University, China, 2017-2018)
     year: 2015-2018
