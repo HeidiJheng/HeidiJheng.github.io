@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://psycnet.apa.org/fulltext/2028-04913-001.html
+url_pdf: https://www.airitilibrary.com/Article/Detail/16808428-N202603200006-00001
 url_code: ''
 url_dataset: ''
 url_poster: ''
