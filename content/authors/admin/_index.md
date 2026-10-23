@@ -77,9 +77,8 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<p style="font-size:18px; font-weight:600; line-height:1.5; margin:0 0 10px 0;">
-  <strong>Understanding how people process and evaluate
-  information and revise their beliefs.</strong>
+<p style="font-size:18px; font-style:italic; font-weight:400; line-height:1.5; margin:0 0 16px 0;">
+  I explore how emotions and cognition shape the way people evaluate (mis)information and revise their beliefs in evolving digital communication contexts.
 </p>
 
 <p style="font-size:17px; line-height:1.2; margin:0 0 8px 0;">
