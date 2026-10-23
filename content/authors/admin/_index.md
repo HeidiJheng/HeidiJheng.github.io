@@ -29,11 +29,10 @@ bio: My research interests include learning from text (about health topics), eye
 
 # Interests to show in About widget
 interests:
-- Learning from Text
-- Health Communication
-- Eye tracking & Psychophysiological Measures
-- Emotion Dynamics
-- Cognition-Emotion Interaction
+- Misinformation & Belief Revision
+- Health & AI-Mediated Communication
+- Emotion, Attention & Cognition
+- Eye Tracking & Psychophysiological Methods
 
 # Education to show in About widget
 education:
@@ -44,9 +43,6 @@ education:
   - course: M.Sc. in Communication 
     institution: National Taiwan University (Exchange Student in Human Factor and Ergonomics at Tsinghua University, China, 2017-2018)
     year: 2015-2018
-  - course: BA in Business Administration
-    institution: Yuan Ze University
-    year: 2011-2015
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -82,5 +78,5 @@ social:
 highlight_name: true
 ---
 I hold a PhD in Social Sciences (Education Sciences and Communication Sciences) from the University of Antwerp, Belgium. My research lies at the intersection of communication, cognition, and learning, with a particular focus on how people evaluate information, respond to misinformation, and revise their beliefs.<br>
-My work examines how emotions, attention, and message design shape information engagement, comprehension, and judgement, particularly in the contexts of health communication and misinformation correction. I adopt a multi-method approach, combining experiments, eye tracking, psychophysiological measures, and dynamic emotion assessment to investigate the cognitive and emotional processes underlying these responses.<br>
+My work examines how emotions, attention, and message design shape information engagement, comprehension, and judgement, particularly in the contexts of health communication and misinformation correction. I adopt a multi-method approach, combining eye tracking, psychophysiological measures, and dynamic emotion assessment to investigate the underlying cognitive and emotional processes.<br>
 More recently, I have expanded my research to include AI-assisted evaluation of digital content. Building on my expertise in misinformation correction and human information processing, I am increasingly interested in how generative AI influences evidence evaluation, error detection, and human judgement in digital information environments.
