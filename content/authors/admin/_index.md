@@ -77,14 +77,14 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<p style="font-size:18px; font-weight:600; line-height:1.5; margin:0 0 18px 0;">
+<p style="font-size:18px; font-weight:600; line-height:1.5; margin:0 0 10px 0;">
   <strong>Understanding how people process and evaluate
   information and revise their beliefs.</strong>
 </p><br>
 
-<p style="font-size:17px; line-height:1.6; margin:0 0 12px 0;">
+<p style="font-size:17px; line-height:1.6; margin:0 0 8px 0;">
 I hold a PhD in Social Sciences from the University of Antwerp, Belgium. My research lies at the intersection of emotion, cognition, and communication, with a particular interest in how people respond to misinformation and make sense of complex information.</p><br>
-<p style="font-size:17px; line-height:1.6; margin:0 0 12px 0;">
+<p style="font-size:17px; line-height:1.6; margin:0 0 8px 0;">
 My work examines how emotions, attention, and message design shape information engagement, comprehension, and judgement, particularly in the contexts of health communication and misinformation correction. I adopt a multi-method approach, combining eye tracking, psychophysiological measures, and dynamic emotion assessment to investigate the underlying cognitive and emotional processes.</p><br>
-<p style="font-size:17px; line-height:1.6; margin:0 0 12px 0;">
+<p style="font-size:17px; line-height:1.6; margin:0 0 8px 0;">
 More recently, I have expanded my research to include AI-assisted evaluation of digital content. Building on my expertise in misinformation correction and human information processing, I am increasingly interested in how generative AI influences evidence evaluation, error detection, and human judgement in digital information environments.</p>
