@@ -6,7 +6,7 @@ authors:
 
   
 date: "2026-01-17T00:00:00Z"
-doi: "doi.org/10.29843/JCCIS.202601_(50).0001"
+doi: "10.29843/JCCIS.202601_(50).0001"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-12-11T00:00:00Z"
