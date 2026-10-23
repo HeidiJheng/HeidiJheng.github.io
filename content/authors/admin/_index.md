@@ -77,7 +77,12 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-**Understanding how people process and evaluate information and revise their beliefs.**<br>
-I hold a PhD in Social Sciences from the University of Antwerp, Belgium. My research lies at the intersection of emotion, cognition, and communication, with a particular interest in how people respond to misinformation and make sense of complex information.<br>
+<p style="margin-bottom: 24px;">
+  <strong>Understanding how people process and evaluate
+  information and revise their beliefs.</strong>
+</p><br>
+
+<p style="margin-bottom: 24px;">
+I hold a PhD in Social Sciences from the University of Antwerp, Belgium. My research lies at the intersection of emotion, cognition, and communication, with a particular interest in how people respond to misinformation and make sense of complex information.</p><br>
 My work examines how emotions, attention, and message design shape information engagement, comprehension, and judgement, particularly in the contexts of health communication and misinformation correction. I adopt a multi-method approach, combining eye tracking, psychophysiological measures, and dynamic emotion assessment to investigate the underlying cognitive and emotional processes.<br>
 More recently, I have expanded my research to include AI-assisted evaluation of digital content. Building on my expertise in misinformation correction and human information processing, I am increasingly interested in how generative AI influences evidence evaluation, error detection, and human judgement in digital information environments.
